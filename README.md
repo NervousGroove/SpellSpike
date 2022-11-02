@@ -6,7 +6,7 @@ The new, more powerful and easier programming language.
 SpellSpike is a programming language developed and distributed by SwankyNoob.
 Besides being extremely popular for its ease of programming and interpretation, SpellSpike is one of the most powerful languages on the technology and development market. The SpellSpike language is very broad and can be used for everything, and it is built around efficient and easy-to-use languages such as Python and JavaScript. You can create anything with SplSpk even if you are a beginner or advanced in programming regardless of your level of knowledge, you can do basic and simple things like Websites, to extremely advanced and complex things like Games, Engines, IDEs, Operating Systems, and DAWs, APIs, CADs, Browsers and much more!
 
-![alt text](https://raw.githubusercontent.com/NervousGroove/SpellSpike/main/SpellSpike.png)
+![error](https://raw.githubusercontent.com/NervousGroove/SpellSpike/main/SpellSpike.png)
 
 # 🐱‍🚀 Expressions and Functions:
 SPKcreateframe() = Create an Iframe
