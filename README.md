@@ -5,6 +5,8 @@ The new, more powerful and easier programming language.
 HOW TO USE ON WINDOWS:
 Download the Repository (Clicking on "Code" and then "Download Zip"), then in the "Windows" folder, run the file "SpellSpike_Dashboard.exe", and complete the steps (Usually Clicking Next), in these steps one of them will be choose the directory where the New SpellSpike Project will be created. When you complete all steps, start programming! Remember to edit only the "Index.html" file.
 
+(You will need to download the dependencies, for this read: https://raw.githubusercontent.com/NervousGroove/SpellSpike/main/Windows/Dependencies/help.txt)
+
 (Available for Windows only, Linux and MacOs versions are under construction)
 
 SpellSpike is a programming language developed and distributed by SwankyNoob.
