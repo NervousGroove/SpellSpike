@@ -75,3 +75,48 @@ p2 = "Welcome :)"
 </html>
 ```
 Now let's look at all the functions and expressions:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+</head>
+<body onload="print(), msg(), Prompt(), OnClick(), BluetoothRequestAll()">
+<!-- MSG: Is used to show alerts -->
+<!-- PRINT: It is used to write paragraphs -->
+<!-- PROMPT: Is used to ask the user questions -->
+<!-- ONCLICK: It serves to create the event when an object is clicked, in the Onload section of the Body, it serves to indicate that this event will be used, but it does not mean that the target of the click is the Body, since the target will be indicated with the expression "Element", -->
+<!-- BluetoothRequestAll: The BluetoothRequestAll function, as its name suggests, requests all Bluetooth devices (without filters). Unlike the other functions, it doesn't need to be configured, after being added to an event (such as the Onload body), it will already be in effect. -->
+
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+p = "Hello Word" //Used to indicate the contents of its respective "print()", in this case, the first print().
+PromptInfo = "Info" //It is used to enter information about Prompt(), in this case the first Prompt(). You can ask questions here.
+PromptInput= "Input" //Here you can enter initial text at the prompt. (In this case, at the first prompt())
+Element = "El" //The Element expression defines the target of the OnClick event, which is indicated in the OnLoad section of the Body.
+vrb = "hello" /*This is not a recommended way to create variables, but it is still functional. We don't recommend it because there are no keywords, like "Var Welcome = 1", the VRB method uses numbers, for example:
+vrb = "Hello";
+vrb2= "Welcome";
+vrb3= "Hi"; */
+action = function(){ //This is an example of a function, in the language the expression action is used to indicate functions. This is just an example, which displays a message on the console. Like some other elements, after the first function, you must add a number (up to 30).
+	console.log('Hello word!')
+}	
+renderer = WebGL; //This expression is in Beta, but its purpose is to select the renderer.
+	</script>
+
+
+<!-- Scripts: -->
+
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+</body>
+</html>
+```
