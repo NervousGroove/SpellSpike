@@ -33,14 +33,7 @@ p = "Hello Word"
 	</script>
 
 <!-- Scripts: -->
-
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 ```
@@ -65,13 +58,7 @@ p2 = "Welcome :)"
 
 <!-- Scripts: -->
 
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 ```
@@ -113,13 +100,7 @@ renderer = WebGL; //This expression is in Beta, but its purpose is to select the
 
 <!-- Scripts: -->
 
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 ```
@@ -146,18 +127,7 @@ b = 76; //The second number (b) of the divided, which will be added together wit
 
 <!-- Scripts: -->
 
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
-<script src="src/Bluetooth.js"></script>
-<script src="src/Renderer.js"></script>
-<script src="src/Audio.js"></script>
-<script src="src/Math.js"></script>
-<script src="src/FileSystem.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 
@@ -183,19 +153,7 @@ b = 76; //The second number (b) of the addition, which will be added together wi
 	</script>
 
 <!-- Scripts: -->
-
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
-<script src="src/Bluetooth.js"></script>
-<script src="src/Renderer.js"></script>
-<script src="src/Audio.js"></script>
-<script src="src/Math.js"></script>
-<script src="src/FileSystem.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 
@@ -219,19 +177,7 @@ b = 76; //The second number (b) of the divided, which will be added together wit
 	</script>
 
 <!-- Scripts: -->
-
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
-<script src="src/Bluetooth.js"></script>
-<script src="src/Renderer.js"></script>
-<script src="src/Audio.js"></script>
-<script src="src/Math.js"></script>
-<script src="src/FileSystem.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 
@@ -258,18 +204,7 @@ b = 76; //The second number (b) of the multiplied, which will be added together 
 
 <!-- Scripts: -->
 
-<script src="src/Alert.js"></script>
-<script src="src/Function.js"></script>
-<script src="src/Var.js"></script>
-<script src="src/Engine.js"></script>
-<script src="src/Prompt.js"></script>
-<script src="src/Write.js"></script>
-<script src="src/Events.js"></script>
-<script src="src/Bluetooth.js"></script>
-<script src="src/Renderer.js"></script>
-<script src="src/Audio.js"></script>
-<script src="src/Math.js"></script>
-<script src="src/FileSystem.js"></script>
+<script src="main.js"></script>
 </body>
 </html>
 
