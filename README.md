@@ -24,11 +24,11 @@ Whenever you want to add a function, for example, you want to add a new paragrap
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>SpellSpike Program</title>
 </head>
-<body onload=""> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+<body onload="print()"> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
 	
 <!-- Your Code: -->
 	<script type="text/javascript">
-
+p = "Hello Word"
 	</script>
 
 <!-- Scripts: -->
@@ -42,5 +42,35 @@ Whenever you want to add a function, for example, you want to add a new paragrap
 <script src="src/Events.js"></script>
 </body>
 </html>
+```
 
+Notice that in the "OnLoad" field of the Body we indicate which function we are going to use (you can indicate as many as you want), and in the <script> we add what is the content of this paragraph. After a function/expression is used once, if you want to add another one, you must add a number, for example print2(). Some elements have limits, for example:
+No more than 10 Alerts and 10 Prompts can be added. Also the "print()" command has a limit to be used 35 times. But over time we will increase this limit, although nobody ever uses usually more than 2 alerts or 2 prompts. Example:
+	```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+</head>
+<body onload="print(), print2()"> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+p = "Hello Word"
+p2 = "Welcome :)"
+	</script>
+
+<!-- Scripts: -->
+
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+</body>
+</html>
 ```
