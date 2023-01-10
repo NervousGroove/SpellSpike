@@ -74,3 +74,4 @@ p2 = "Welcome :)"
 </body>
 </html>
 ```
+Now let's look at all the functions and expressions:
