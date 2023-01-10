@@ -46,7 +46,7 @@ p = "Hello Word"
 
 Notice that in the "OnLoad" field of the Body we indicate which function we are going to use (you can indicate as many as you want), and in the <script> we add what is the content of this paragraph. After a function/expression is used once, if you want to add another one, you must add a number, for example print2(). Some elements have limits, for example:
 No more than 10 Alerts and 10 Prompts can be added. Also the "print()" command has a limit to be used 35 times. But over time we will increase this limit, although nobody ever uses usually more than 2 alerts or 2 prompts. Example:
-	```html
+```html
 <!DOCTYPE html>
 <html>
 <head>
