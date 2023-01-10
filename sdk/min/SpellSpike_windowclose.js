@@ -1,3 +1,0 @@
-function SPKclose() {
-window.close();
-}
