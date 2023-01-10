@@ -1,7 +1,12 @@
 # 🐱‍👤 SpellSpike
+(𝒔𝒑𝒆𝒍𝒍𝒔𝒑𝒊𝒌𝒆 𝒊𝒔 𝒏𝒐𝒕 𝒐𝒑𝒆𝒏-𝒔𝒐𝒖𝒓𝒄𝒆)
 The new, more powerful and easier programming language.
 
-*𝑶𝒏 𝑾𝒊𝒏𝒅𝒐𝒘𝒔, 𝒖𝒔𝒆 𝒕𝒉𝒆 "𝑪𝒓𝒆𝒂𝒕𝒆 𝒂 𝒏𝒆𝒘 𝒑𝒓𝒐𝒋𝒆𝒄𝒕.𝒆𝒙𝒆" 𝒇𝒊𝒍𝒆 𝒕𝒐 𝒈𝒆𝒏𝒆𝒓𝒂𝒕𝒆 𝒂 𝑺𝒑𝒆𝒍𝒍𝑺𝒑𝒊𝒌𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 𝒊𝒏 𝒕𝒉𝒆 𝒔𝒆𝒍𝒆𝒄𝒕𝒆𝒅 𝒅𝒊𝒓𝒆𝒄𝒕𝒐𝒓𝒚, 𝑴𝒂𝒄𝑶𝒔 𝒂𝒏𝒅 𝑳𝒊𝒏𝒖𝒙 𝒗𝒆𝒓𝒔𝒊𝒐𝒏𝒔 𝒂𝒓𝒆 𝒖𝒏𝒅𝒆𝒓 𝒄𝒐𝒏𝒔𝒕𝒓𝒖𝒄𝒕𝒊𝒐𝒏. 𝑻𝒉𝒆 ".𝒔𝒑𝒊𝒌𝒆" 𝒇𝒊𝒍𝒆𝒔 𝒄𝒂𝒏 𝒃𝒆 𝒓𝒖𝒏 𝒐𝒏 𝒔𝒆𝒓𝒗𝒆𝒓𝒔 𝒂𝒏𝒅 𝒊𝒏 𝑵𝑾𝑱𝒔 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
+HOW TO USE ON WINDOWS:
+Download the Repository (Clicking on "Code" and then "Download Zip"), then in the "Windows" folder, run the file "SpellSpike_Dashboard.exe", and complete the steps (Usually Clicking Next), in these steps one of them will be choose the directory where the New SpellSpike Project will be created. When you complete all steps, start programming! Remember to edit only the "Index.html" file.
+
+HOW TO DOWNLOAD ON LINUX/MACOS:
+Download the repository (Click on "Code" and then on "Download Zip", after being downloaded, extract the ZIP and access the folder of your respective operating system (Linux/MacOs). In this folder you will find another ZIP, extract it and start programming! Remember to edit only the INDEX.HTML file
 
 SpellSpike is a programming language developed and distributed by SwankyNoob.
 Besides being extremely popular for its ease of programming and interpretation, SpellSpike is one of the most powerful languages on the technology and development market. The SpellSpike language is very broad and can be used for everything, and it is built around efficient and easy-to-use languages such as Python and JavaScript. You can create anything with SplSpk even if you are a beginner or advanced in programming regardless of your level of knowledge, you can do basic and simple things like Websites, to extremely advanced and complex things like Games, Engines, IDEs, Operating Systems, and DAWs, APIs, CADs, Browsers and much more!
@@ -9,44 +14,33 @@ Besides being extremely popular for its ease of programming and interpretation, 
 ![error](https://raw.githubusercontent.com/NervousGroove/SpellSpike/main/SpellSpike.png)
 
 # 🐱‍🚀 Expressions and Functions:
-SPKcreateframe() = Create an Iframe
+Whenever you want to add a function, for example, you want to add a new paragraph using "print()", you must call this function via an event (we recommend OnLoad, in the Body section, because it is more efficient). You should not add for example the print() command. Let's take an example:
 
-SPKinfo() = Create an alert
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+</head>
+<body onload=""> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
 
-SPKbluerequest() = Request connection to Bluetooth devices
+	</script>
 
-SPKcreatebtn() = Create a button
+<!-- Scripts: -->
 
-SPKcreate1h1() = Create an H1
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+</body>
+</html>
 
-SPKcreateimg() = Insert an image
-
-SPKcreateinput() = Create a Text Input/Field
-
-createp1() = Create a text/paragraph
-
-SPKcreatevideo() = Insert a video
-
-SPKgeoisavailable() = Check if the geolocation is available
-
-SPKgetgeo() = Get the location
-
-SPKlastmodified() = Show an alert about the last page modification
-
-SPKloadstyle() = This function is already set up automatically, but if you accidentally disable it or a bug occurs in your project, you can use SPKloadstyle to load a CSS into the page.
-
-SPKopenexplorer() = Use to open the file explorer in a new window.
-
-SPKredirect() = Redirect the user to another page.
-
-SPKvibrate() = Vibrate on mobile devices
-
-SPKsetwindowtitle() = Set the title of the window.
-
-SPKclose() = Close the window.
-
-SPKwritefile() = Create a file
-
-action() = This expression, also known as "function()" performs an action determined by you.
-
-*In the cases of the functions/expressions action(), SPKcreateinput(), SPKcreatebtn(), createp() and SPKcreate1h1(), you need to add a number after creating the first element of each of these functions, for example: If you already entered a createp() once, to enter it again you will have to add another number like createp2(), createp3() and so on with all other elements mentioned above.
+```
