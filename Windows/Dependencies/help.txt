@@ -1,0 +1,3 @@
+Open the .URL file (Windows only), download the nw.dll file (from the Google Drive tab that was opened) 
+and move the nw.dll file (when downloaded) to the following directory:
+C:\Program FilesAppMainFolder
