@@ -105,6 +105,8 @@ action = function(){ //This is an example of a function, in the language the exp
 	console.log('Hello word!')
 }	
 renderer = WebGL; //This expression is in Beta, but its purpose is to select the renderer.
+
+
 	</script>
 
 
@@ -119,4 +121,155 @@ renderer = WebGL; //This expression is in Beta, but its purpose is to select the
 <script src="src/Events.js"></script>
 </body>
 </html>
+```
+# Mathematics:
+
+Addition:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+
+</head>
+<body onload="mathsum()"> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+a = 15; //The first number (a) of the divided, which will be added together with b
+b = 76; //The second number (b) of the divided, which will be added together with a
+	</script>
+
+<!-- Scripts: -->
+
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+<script src="src/Bluetooth.js"></script>
+<script src="src/Renderer.js"></script>
+<script src="src/Audio.js"></script>
+<script src="src/Math.js"></script>
+<script src="src/FileSystem.js"></script>
+</body>
+</html>
+
+```
+
+Division:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+
+</head>
+<body onload="mathsplit()"> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+a = 15; //The first number (a) of the addition, which will be added together with b
+b = 76; //The second number (b) of the addition, which will be added together with a
+	</script>
+
+<!-- Scripts: -->
+
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+<script src="src/Bluetooth.js"></script>
+<script src="src/Renderer.js"></script>
+<script src="src/Audio.js"></script>
+<script src="src/Math.js"></script>
+<script src="src/FileSystem.js"></script>
+</body>
+</html>
+
+```
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+
+</head>
+<body onload="mathsum()"> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+a = 15; //The first number (a) of the divided, which will be added together with b
+b = 76; //The second number (b) of the divided, which will be added together with a
+	</script>
+
+<!-- Scripts: -->
+
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+<script src="src/Bluetooth.js"></script>
+<script src="src/Renderer.js"></script>
+<script src="src/Audio.js"></script>
+<script src="src/Math.js"></script>
+<script src="src/FileSystem.js"></script>
+</body>
+</html>
+
+```
+
+Multiplication:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>SpellSpike Program</title>
+
+</head>
+<body onload="mathmultiply()"> <!-- In the "On Load" Event, insert the functions you will use, to learn more, read the documentation on Github or on the official website. -->
+	
+<!-- Your Code: -->
+	<script type="text/javascript">
+a = 15; //The first number (a) of the multiplied, which will be added together with b
+b = 76; //The second number (b) of the multiplied, which will be added together with a
+	</script>
+
+<!-- Scripts: -->
+
+<script src="src/Alert.js"></script>
+<script src="src/Function.js"></script>
+<script src="src/Var.js"></script>
+<script src="src/Engine.js"></script>
+<script src="src/Prompt.js"></script>
+<script src="src/Write.js"></script>
+<script src="src/Events.js"></script>
+<script src="src/Bluetooth.js"></script>
+<script src="src/Renderer.js"></script>
+<script src="src/Audio.js"></script>
+<script src="src/Math.js"></script>
+<script src="src/FileSystem.js"></script>
+</body>
+</html>
+
 ```
